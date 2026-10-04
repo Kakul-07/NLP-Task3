@@ -104,3 +104,13 @@ Example response:
 `app.py` - runs the FastAPI and makes predictions.
 
 `eda.ipynb` - used to explore the dataset.
+
+## Live API
+
+The FastAPI application is deployed on Render.
+
+API:
+https://nlp-task3.onrender.com
+
+API Documentation:
+https://nlp-task3.onrender.com/docs
