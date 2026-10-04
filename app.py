@@ -36,6 +36,4 @@ def predict(news: NewsInput):
 
     prediction = model.predict(data["text"])[0]
 
-    return {
-        "prediction": categories[prediction]
-    }
+    return {"prediction": categories[prediction]}
